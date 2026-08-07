@@ -1,14 +1,19 @@
 <!-- Banner -->
-<h1 align="center">Hi 👋, I'm Thu Htet Naing</h1>
-<h3 align="center">Full-Stack Developer • UI Enthusiast • Graphic Designer • Content Writer</h3>
+<h1 align="center">Hi 👋 I'm Ku Kue</h1>
 
 <p align="center">
-  <a href="https://kukue.vercel.app">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit Website-blue?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/KuKue">
-    <img src="https://img.shields.io/github/followers/KuKue?label=GitHub&style=for-the-badge" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Frontend+%7C+Backend+Engineer;UI%2FUX+Designer;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<a href="https://kukue.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-kukue.vercel.app-blue?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=gitOfKuKue&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/gitOfKuKue?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -19,49 +24,79 @@ I'm a passionate **Full-Stack Developer** who enjoys transforming ideas into mod
 
 Currently studying **Pearson BTEC Higher National Diploma (Level 5)** while continuously building real-world products and improving my software engineering skills.
 
-I enjoy creating applications that solve real problems through clean UI, efficient backend architecture, and thoughtful user experiences.
+I enjoy creating applications that solve real problems through clean UI, scalable backend architecture, and thoughtful user experiences.
 
-🌐 Portfolio:
-> **https://kukue.vercel.app**
+🌐 **Portfolio**
+
+https://kukue.vercel.app
 
 ---
 
 # 🚀 What I Do
 
-- 💻 Full-Stack Web Development
-- 🎨 UI/UX & Graphic Design
-- ⚡ Frontend Performance Optimization
-- 📱 Responsive Web Applications
-- 📊 Dashboard & Analytics Systems
-- ✍️ Content Writing & Branding
+💻 Full-Stack Development
+
+🎨 UI / UX Design
+
+⚡ Frontend Performance Optimization
+
+📱 Responsive Web Applications
+
+📊 Dashboard & Analytics Systems
+
+✍️ Content Writing & Branding
 
 ---
 
 # 🛠 Tech Stack
 
-### Frontend
+## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite"/>
 </p>
 
-### Backend
+## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,postgres"/>
 </p>
 
-### Languages
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript"/>
 </p>
 
-### Tools
+## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,photoshop,illustrator" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,photoshop,illustrator"/>
 </p>
+
+---
+
+# 📊 Skill Chart
+
+| Skill | Level |
+|------|-----------|
+| React | ██████████ 95% |
+| TypeScript | █████████▌ 90% |
+| JavaScript | █████████▌ 90% |
+| Next.js | █████████ 88% |
+| Node.js | ████████▌ 85% |
+| Express | ████████▌ 85% |
+| PostgreSQL | ████████ 80% |
+| MongoDB | ████████ 80% |
+| Tailwind CSS | ██████████ 95% |
+| UI/UX Design | █████████ 90% |
+| Graphic Design | █████████▌ 92% |
+
+---
+
+# 📈 Development Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitOfKuKue&theme=tokyonight"/>
 
 ---
 
@@ -69,81 +104,106 @@ I enjoy creating applications that solve real problems through clean UI, efficie
 
 ## 🚲 ByteWallet
 
-A modern personal finance platform designed to simplify expense tracking, budgeting, and financial insights with an intuitive user experience.
+Modern personal finance platform with budgeting, analytics and expense tracking.
 
-**Tech**
-- React
-- TypeScript
-- TailwindCSS
-- Supabase
-- PostgreSQL
+**Stack**
+
+React • TypeScript • TailwindCSS • Supabase • PostgreSQL
 
 ---
 
 ## 🌍 Marina Travel
 
-Travel platform featuring responsive UI, reusable components, and a smooth booking experience.
+Modern travel booking platform with responsive UI and reusable architecture.
 
 ---
 
-## 🎓 Student & Organization Platforms
+## 🎓 Student & Organization Platform
 
-Building scalable web applications focused on:
+Project management and engagement tracking system for universities.
 
-- Project Management
+Features
+
 - Team Collaboration
-- Student Engagement
-- Analytics Dashboards
-- Organization Management
+- Supervisor Dashboard
+- Analytics
+- Engagement Tracking
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KuKue&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gitOfKuKue&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuKue&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitOfKuKue&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KuKue&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gitOfKuKue&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gitOfKuKue&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gitOfKuKue&theme=tokyonight&no-frame=true&margin-w=15"/>
+
 </p>
 
 ---
 
 # 🌱 Currently Learning
 
-- Scalable Backend Architecture
-- AI Integration
-- Cloud Deployment
-- Data Analytics
-- Software Architecture
-- Product Design
+- ☁️ Cloud Deployment
+- 🤖 AI Integration
+- 🏗 Software Architecture
+- 📊 Data Analytics
+- ⚙️ Scalable Backend Systems
+- 🚀 DevOps
 
 ---
 
 # 🤝 Let's Connect
 
 🌐 Portfolio
-> https://kukue.vercel.app
+
+https://kukue.vercel.app
 
 💼 LinkedIn
-> *(Add your LinkedIn URL)*
+
+(Add your LinkedIn)
 
 📧 Email
-> *(Add your email)*
+
+(Add your email)
 
 ---
 
 # 💡 Philosophy
 
-> *"Build products that solve real problems, not just projects that look good."*
+> **"Build products that solve real problems, not just projects that look good."**
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+
+### Thanks for visiting ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+
 </p>
