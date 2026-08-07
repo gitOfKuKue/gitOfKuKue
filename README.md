@@ -165,15 +165,24 @@ Ownership & Polish████████████████████  
 
 <div align="center">
 
-  <!-- Commit these SVGs next to README.md in gitOfKuKue/gitOfKuKue -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&width=520&lines=Watch+the+snake+eat+my+commit+grid+%F0%9F%90%8D;Cyan+trail+%C2%B7+glowing+head+%C2%B7+loops+forever" alt="Snake caption" />
+
+  <br/>
+
+  <!-- Upload both SVGs next to README.md in gitOfKuKue/gitOfKuKue -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg" />
     <img
       alt="github contribution grid snake animation"
       src="./github-contribution-grid-snake.svg"
+      width="100%"
     />
   </picture>
+
+  <br/>
+
+  <sub>⚡ Glowing cyan head · gradient trail · eats every cell · auto-loops</sub>
 
 </div>
 
