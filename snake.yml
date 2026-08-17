@@ -1,0 +1,26 @@
+name: generate snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: gitOfKuKue
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: |
+          mkdir -p output
+          mv github-contribution-grid-snake*.svg output/ 2>/dev/null || true
+      - uses: crazy-max/ghaction-github-pages@v4
+        if: false  # remove/replace with a commit step if you don't want GH Pages
