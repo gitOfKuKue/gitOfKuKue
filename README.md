@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=FFFFFF&center=true&vCenter=true&width=560&lines=Ku+Kue">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=000000&center=true&vCenter=true&width=560&lines=Ku+Kue">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=000000&center=true&vCenter=true&width=560&lines=Ku+Kue" alt="Name" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Thu+Htet+Naing+%40+Ku+Kue">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=000000&center=true&vCenter=true&width=700&lines=Thu+Htet+Naing+%40+Ku+Kue">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=000000&center=true&vCenter=true&width=700&lines=Thu+Htet+Naing+%40+Ku+Kue" alt="Thu Htet Naing @ Ku Kue" />
   </picture>
 
 <picture>
@@ -35,9 +35,9 @@ comfortable owning a feature from spec to deploy
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,postgres,supabase,redis,docker,cloudflare,figma,git,tailwind,vercel&perline=8&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,postgres,supabase,redis,docker,cloudflare,figma,git,tailwind,vercel&perline=8&theme=light">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,postgres,supabase,redis,docker,cloudflare,figma,git,tailwind,vercel&perline=8&theme=light" alt="Tech stack icons" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cnestjs%2Cexpress%2Cpostgres%2Csupabase%2Credis%2Cdocker%2Ccloudflare%2Cfigma%2Cgit%2Ctailwind%2Cvercel&perline=8&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cnestjs%2Cexpress%2Cpostgres%2Csupabase%2Credis%2Cdocker%2Ccloudflare%2Cfigma%2Cgit%2Ctailwind%2Cvercel&perline=8&theme=light">
+    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cnestjs%2Cexpress%2Cpostgres%2Csupabase%2Credis%2Cdocker%2Ccloudflare%2Cfigma%2Cgit%2Ctailwind%2Cvercel&perline=8&theme=light" alt="Tech stack icons" />
   </picture>
 </div>
 
