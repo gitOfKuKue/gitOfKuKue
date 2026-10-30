@@ -1,111 +1,94 @@
 <div align="center">
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Thu+Htet+Naing+%40+Ku+Kue">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=000000&center=true&vCenter=true&width=700&lines=Thu+Htet+Naing+%40+Ku+Kue">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=000000&center=true&vCenter=true&width=700&lines=Thu+Htet+Naing+%40+Ku+Kue" alt="Thu Htet Naing @ Ku Kue" />
-  </picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:111827,100:374151&amp;height=180&amp;section=header&amp;text=Thu%20Htet%20Naing%20.%20Ku%20Kue&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20Generative%20Engineer%20%C2%B7%20Full-Stack%20Builder&amp;descAlignY=55&amp;descSize=16" alt="Thu Htet Naing . Ku Kue — AI Generative Engineer and Full-Stack Builder">
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=FFFFFF&center=true&vCenter=true&width=620&lines=Fullstack+Developer+%C2%B7+Ho+Chi+Minh+City;Web+%C2%B7+Mobile+%C2%B7+APIs+%C2%B7+Interfaces;Always+shipping+something">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=000000&center=true&vCenter=true&width=620&lines=Fullstack+Developer+%C2%B7+Ho+Chi+Minh+City;Web+%C2%B7+Mobile+%C2%B7+APIs+%C2%B7+Interfaces;Always+shipping+something">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=000000&center=true&vCenter=true&width=620&lines=Fullstack+Developer+%C2%B7+Ho+Chi+Minh+City;Web+%C2%B7+Mobile+%C2%B7+APIs+%C2%B7+Interfaces;Always+shipping+something" alt="Typing intro" />
-  </picture>
+I build AI-powered products, intelligent integrations, and reliable full-stack systems—from LLM workflows and APIs to polished user interfaces and deployment.
 
-[Portfolio](https://kukue.vercel.app/) · [Email](mailto:thuhtetnaing.14.11@gmail.com) · [GitHub](https://github.com/gitOfKuKue)
+<a href="https://kukue.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"></a>
+<a href="https://github.com/gitOfKuKue"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
+<a href="mailto:thuhtetnaing.14.11@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
 
 </div>
 
----
+## About
 
-## Who am I
+I am a product-minded AI generative engineer with a full-stack development background and more than four years of experience shipping production software independently and with small teams. I enjoy turning practical requirements into maintainable AI-assisted products, integrations, and interfaces that are simple for people to use.
 
-I'm Ku Kue, a fullstack developer based in Ho Chi Minh City. I build web and mobile products end to end — from database schema to the pixel on screen — and I care about the parts that are easy to skip: clean state management, sane error handling, and interfaces that don't make people think.
+I adapt quickly to the tools a project needs. My experience covers frontend and mobile development, backend services, relational databases, cache databases, API and integration tooling, version control, automated delivery, and cloud deployment.
 
-```
-$ whoami
-4+ years shipping production software
-9+ projects, solo and in small teams
-comfortable owning a feature from spec to deploy
-```
+## Capabilities
 
-**What I'm into right now:** type-safe APIs, React Server Components, and making mobile apps feel as fast as native.
+| Area | Tools and experience |
+| --- | --- |
+| Generative AI | LLM integrations, tool and function calling, prompt workflows, MCP, OpenAI, Gemini and AI-powered automation |
+| Frontend | TypeScript, JavaScript, React, Next.js, Tailwind CSS, Framer Motion, accessible UI systems |
+| Mobile | React Native, Expo, Reanimated |
+| Backend | Node.js, NestJS, Express, REST APIs, WebSockets, authentication and background jobs |
+| Data | PostgreSQL, TypeORM, Supabase, data modeling and migrations |
+| Cache and state | Redis, caching strategies, server and client state management |
+| APIs and integrations | REST, webhooks, OAuth, third-party APIs, MCP integrations and automation |
+| Delivery | Git, GitHub, GitHub Actions, Docker, Cloudflare, Vercel and CI/CD workflows |
+| Product and design | Figma, responsive interfaces, accessibility, error handling and developer experience |
 
-## Stack
+> Comfortable learning and adapting to new frameworks, databases, infrastructure, and development tools when the product requires them.
+
+## Technology
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cnestjs%2Cexpress%2Cpostgres%2Csupabase%2Credis%2Cdocker%2Ccloudflare%2Cfigma%2Cgit%2Ctailwind%2Cvercel&perline=8&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cnestjs%2Cexpress%2Cpostgres%2Csupabase%2Credis%2Cdocker%2Ccloudflare%2Cfigma%2Cgit%2Ctailwind%2Cvercel&perline=8&theme=light">
-    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cnestjs%2Cexpress%2Cpostgres%2Csupabase%2Credis%2Cdocker%2Ccloudflare%2Cfigma%2Cgit%2Ctailwind%2Cvercel&perline=8&theme=light" alt="Tech stack icons" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cpython%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cnestjs%2Cfastapi%2Cpostgres%2Credis%2Cdocker%2Cgit%2Cgithubactions&amp;perline=13&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cpython%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cnestjs%2Cfastapi%2Cpostgres%2Credis%2Cdocker%2Cgit%2Cgithubactions&amp;perline=13&amp;theme=light">
+    <img src="https://skillicons.dev/icons?i=ts%2Cpython%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cnestjs%2Cfastapi%2Cpostgres%2Credis%2Cdocker%2Cgit%2Cgithubactions&amp;perline=13&amp;theme=light" alt="Core stack: TypeScript, Python, React, Next.js, Tailwind CSS, Node.js, NestJS, FastAPI, PostgreSQL, Redis, Docker, Git, and GitHub Actions">
   </picture>
+  <img src="https://api.iconify.design/simple-icons/openai.svg?color=%238C959F" width="48" height="48" alt="OpenAI" title="OpenAI">
+  <img src="https://api.iconify.design/mdi/dots-horizontal-circle-outline.svg?color=%238C959F" width="48" height="48" alt="More tools" title="More tools and technologies">
 </div>
 
-```
-frontend   TypeScript · React · Next.js · Tailwind CSS · Framer Motion
-mobile     Expo · React Native · Reanimated
-backend    NestJS · Node.js · Express · REST · WebSockets
-data       PostgreSQL · TypeORM · Redis · Supabase
-platform   Docker · Cloudflare · Vercel · GitHub Actions
-design     Figma · UI systems · accessibility
-```
+## Selected Projects
 
-## Skill Proficiency
+| Project | Description |
+| --- | --- |
+| <img src="https://cdn.simpleicons.org/github/8C959F" width="16" height="16" alt="GitHub" /> [Personal Main Bot](https://github.com/gitOfAsterisk/personal-main-bot.git) | Personal assistant bot |
+| <img src="https://cdn.simpleicons.org/github/8C959F" width="16" height="16" alt="GitHub" /> [ByteWallet v2](https://github.com/gitOfKuKue/ByteWallet-v2.git) | Full-stack finance wallet |
+| <img src="https://cdn.simpleicons.org/github/8C959F" width="16" height="16" alt="GitHub" /> [API Bridge MCP](https://github.com/vinmaketeam/api-bridge-mcp.git) | API and MCP integration |
+| <img src="https://cdn.simpleicons.org/github/8C959F" width="16" height="16" alt="GitHub" /> [Action Detection](https://github.com/vinmaketeam/action-detection.git) | Action detection project |
+
+## Current Focus
+
+- Building generative AI applications with LLM tools, MCP, and structured workflows
+- Designing type-safe, maintainable APIs and integrations
+- Building responsive web and mobile experiences
+- Connecting applications with AI, MCP, automation, and external services
+- Improving performance, reliability, security, and deployment workflows
+
+## GitHub Overview
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quickchart.io/chart?width=520&height=420&devicePixelRatio=2&bkg=transparent&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22React%20%2F%20Next.js%22%2C%22TypeScript%22%2C%22Node%20%2F%20NestJS%22%2C%22Expo%20%2F%20RN%22%2C%22PostgreSQL%22%2C%22UI%20%2F%20UX%22%2C%22Docker%20%2F%20Cloud%22%2C%22Problem%20Solving%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Skill%22%2C%22data%22%3A%5B95%2C92%2C90%2C93%2C86%2C91%2C80%2C94%5D%2C%22backgroundColor%22%3A%22rgba%28255%2C255%2C255%2C0.12%29%22%2C%22borderColor%22%3A%22%23ffffff%22%2C%22pointBackgroundColor%22%3A%22%23ffffff%22%2C%22pointBorderColor%22%3A%22%230d1117%22%2C%22borderWidth%22%3A1.5%2C%22pointRadius%22%3A3%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22r%22%3A%7B%22suggestedMin%22%3A0%2C%22suggestedMax%22%3A100%2C%22ticks%22%3A%7B%22display%22%3Afalse%7D%2C%22grid%22%3A%7B%22color%22%3A%22rgba%28255%2C255%2C255%2C0.18%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28255%2C255%2C255%2C0.18%29%22%7D%2C%22pointLabels%22%3A%7B%22color%22%3A%22%23ffffff%22%2C%22font%22%3A%7B%22size%22%3A11%2C%22weight%22%3A%22600%22%7D%7D%7D%7D%7D%7D">
-    <source media="(prefers-color-scheme: light)" srcset="https://quickchart.io/chart?width=520&height=420&devicePixelRatio=2&bkg=transparent&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22React%20%2F%20Next.js%22%2C%22TypeScript%22%2C%22Node%20%2F%20NestJS%22%2C%22Expo%20%2F%20RN%22%2C%22PostgreSQL%22%2C%22UI%20%2F%20UX%22%2C%22Docker%20%2F%20Cloud%22%2C%22Problem%20Solving%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Skill%22%2C%22data%22%3A%5B95%2C92%2C90%2C93%2C86%2C91%2C80%2C94%5D%2C%22backgroundColor%22%3A%22rgba%280%2C0%2C0%2C0.06%29%22%2C%22borderColor%22%3A%22%23000000%22%2C%22pointBackgroundColor%22%3A%22%23000000%22%2C%22pointBorderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A1.5%2C%22pointRadius%22%3A3%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22r%22%3A%7B%22suggestedMin%22%3A0%2C%22suggestedMax%22%3A100%2C%22ticks%22%3A%7B%22display%22%3Afalse%7D%2C%22grid%22%3A%7B%22color%22%3A%22rgba%280%2C0%2C0%2C0.08%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%280%2C0%2C0%2C0.08%29%22%7D%2C%22pointLabels%22%3A%7B%22color%22%3A%22%23000000%22%2C%22font%22%3A%7B%22size%22%3A11%2C%22weight%22%3A%22600%22%7D%7D%7D%7D%7D%7D">
-    <img src="https://quickchart.io/chart?width=520&height=420&devicePixelRatio=2&bkg=transparent&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22React%20%2F%20Next.js%22%2C%22TypeScript%22%2C%22Node%20%2F%20NestJS%22%2C%22Expo%20%2F%20RN%22%2C%22PostgreSQL%22%2C%22UI%20%2F%20UX%22%2C%22Docker%20%2F%20Cloud%22%2C%22Problem%20Solving%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Skill%22%2C%22data%22%3A%5B95%2C92%2C90%2C93%2C86%2C91%2C80%2C94%5D%2C%22backgroundColor%22%3A%22rgba%280%2C0%2C0%2C0.06%29%22%2C%22borderColor%22%3A%22%23000000%22%2C%22pointBackgroundColor%22%3A%22%23000000%22%2C%22pointBorderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A1.5%2C%22pointRadius%22%3A3%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22r%22%3A%7B%22suggestedMin%22%3A0%2C%22suggestedMax%22%3A100%2C%22ticks%22%3A%7B%22display%22%3Afalse%7D%2C%22grid%22%3A%7B%22color%22%3A%22rgba%280%2C0%2C0%2C0.08%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%280%2C0%2C0%2C0.08%29%22%7D%2C%22pointLabels%22%3A%7B%22color%22%3A%22%23000000%22%2C%22font%22%3A%7B%22size%22%3A11%2C%22weight%22%3A%22600%22%7D%7D%7D%7D%7D%7D" alt="Skill radar" width="420" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitOfKuKue&amp;theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitOfKuKue&amp;theme=github">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitOfKuKue&amp;theme=github" alt="Ku Kue's public GitHub contribution overview">
   </picture>
-</div>
-
-<div align="center">
+  <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quickchart.io/chart?width=640&height=360&devicePixelRatio=2&bkg=transparent&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22TypeScript%22%2C%22React%22%2C%22Next.js%22%2C%22Expo%20%2F%20RN%22%2C%22NestJS%22%2C%22Node.js%22%2C%22PostgreSQL%22%2C%22Tailwind%22%2C%22Docker%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Proficiency%22%2C%22data%22%3A%5B92%2C95%2C90%2C93%2C88%2C90%2C86%2C87%2C80%5D%2C%22backgroundColor%22%3A%22%23ffffff%22%2C%22borderRadius%22%3A3%2C%22barPercentage%22%3A0.7%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22min%22%3A0%2C%22max%22%3A100%2C%22grid%22%3A%7B%22color%22%3A%22rgba%28255%2C255%2C255%2C0.18%29%22%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23b3b3b3%22%7D%7D%2C%22y%22%3A%7B%22grid%22%3A%7B%22display%22%3Afalse%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23ffffff%22%2C%22font%22%3A%7B%22weight%22%3A%22600%22%7D%7D%7D%7D%7D%7D">
-    <source media="(prefers-color-scheme: light)" srcset="https://quickchart.io/chart?width=640&height=360&devicePixelRatio=2&bkg=transparent&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22TypeScript%22%2C%22React%22%2C%22Next.js%22%2C%22Expo%20%2F%20RN%22%2C%22NestJS%22%2C%22Node.js%22%2C%22PostgreSQL%22%2C%22Tailwind%22%2C%22Docker%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Proficiency%22%2C%22data%22%3A%5B92%2C95%2C90%2C93%2C88%2C90%2C86%2C87%2C80%5D%2C%22backgroundColor%22%3A%22%23000000%22%2C%22borderRadius%22%3A3%2C%22barPercentage%22%3A0.7%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22min%22%3A0%2C%22max%22%3A100%2C%22grid%22%3A%7B%22color%22%3A%22rgba%280%2C0%2C0%2C0.08%29%22%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23666666%22%7D%7D%2C%22y%22%3A%7B%22grid%22%3A%7B%22display%22%3Afalse%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23000000%22%2C%22font%22%3A%7B%22weight%22%3A%22600%22%7D%7D%7D%7D%7D%7D">
-    <img src="https://quickchart.io/chart?width=640&height=360&devicePixelRatio=2&bkg=transparent&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22TypeScript%22%2C%22React%22%2C%22Next.js%22%2C%22Expo%20%2F%20RN%22%2C%22NestJS%22%2C%22Node.js%22%2C%22PostgreSQL%22%2C%22Tailwind%22%2C%22Docker%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Proficiency%22%2C%22data%22%3A%5B92%2C95%2C90%2C93%2C88%2C90%2C86%2C87%2C80%5D%2C%22backgroundColor%22%3A%22%23000000%22%2C%22borderRadius%22%3A3%2C%22barPercentage%22%3A0.7%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22min%22%3A0%2C%22max%22%3A100%2C%22grid%22%3A%7B%22color%22%3A%22rgba%280%2C0%2C0%2C0.08%29%22%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23666666%22%7D%7D%2C%22y%22%3A%7B%22grid%22%3A%7B%22display%22%3Afalse%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23000000%22%2C%22font%22%3A%7B%22weight%22%3A%22600%22%7D%7D%7D%7D%7D%7D" alt="Proficiency bar chart" width="620" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gitOfKuKue&amp;theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gitOfKuKue&amp;theme=github">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gitOfKuKue&amp;theme=github" alt="Ku Kue's public GitHub statistics">
   </picture>
-</div>
-
-## Where My Time Goes
-
-<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quickchart.io/chart?width=520&height=320&devicePixelRatio=2&bkg=transparent&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Frontend%22%2C%22Backend%20%2F%20APIs%22%2C%22Mobile%22%2C%22DevOps%20%2F%20Infra%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B35%2C30%2C20%2C15%5D%2C%22backgroundColor%22%3A%5B%22%23ffffff%22%2C%22%23bfbfbf%22%2C%22%23808080%22%2C%22%23404040%22%5D%2C%22borderColor%22%3A%22%230d1117%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22color%22%3A%22%23ffffff%22%2C%22font%22%3A%7B%22size%22%3A11%2C%22weight%22%3A%22600%22%7D%2C%22boxWidth%22%3A12%7D%7D%7D%2C%22cutout%22%3A%2262%25%22%7D%7D">
-    <source media="(prefers-color-scheme: light)" srcset="https://quickchart.io/chart?width=520&height=320&devicePixelRatio=2&bkg=transparent&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Frontend%22%2C%22Backend%20%2F%20APIs%22%2C%22Mobile%22%2C%22DevOps%20%2F%20Infra%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B35%2C30%2C20%2C15%5D%2C%22backgroundColor%22%3A%5B%22%23000000%22%2C%22%23404040%22%2C%22%23808080%22%2C%22%23c0c0c0%22%5D%2C%22borderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22color%22%3A%22%23000000%22%2C%22font%22%3A%7B%22size%22%3A11%2C%22weight%22%3A%22600%22%7D%2C%22boxWidth%22%3A12%7D%7D%7D%2C%22cutout%22%3A%2262%25%22%7D%7D">
-    <img src="https://quickchart.io/chart?width=520&height=320&devicePixelRatio=2&bkg=transparent&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Frontend%22%2C%22Backend%20%2F%20APIs%22%2C%22Mobile%22%2C%22DevOps%20%2F%20Infra%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B35%2C30%2C20%2C15%5D%2C%22backgroundColor%22%3A%5B%22%23000000%22%2C%22%23404040%22%2C%22%23808080%22%2C%22%23c0c0c0%22%5D%2C%22borderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22color%22%3A%22%23000000%22%2C%22font%22%3A%7B%22size%22%3A11%2C%22weight%22%3A%22600%22%7D%2C%22boxWidth%22%3A12%7D%7D%7D%2C%22cutout%22%3A%2262%25%22%7D%7D" alt="Focus split doughnut chart" width="440" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gitOfKuKue&amp;theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gitOfKuKue&amp;theme=github">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gitOfKuKue&amp;theme=github" alt="Languages used across Ku Kue's public repositories">
   </picture>
 </div>
 
-## Growth Over Time
+<sub>Language statistics reflect public repositories and are not a proficiency rating.</sub>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quickchart.io/chart?width=640&height=300&devicePixelRatio=2&bkg=transparent&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222022%22%2C%222023%22%2C%222024%22%2C%222025%22%2C%222026%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Shipped%20projects%22%2C%22data%22%3A%5B1%2C3%2C5%2C7%2C9%5D%2C%22borderColor%22%3A%22%23ffffff%22%2C%22backgroundColor%22%3A%22rgba%28255%2C255%2C255%2C0.12%29%22%2C%22fill%22%3Atrue%2C%22tension%22%3A0.35%2C%22pointBackgroundColor%22%3A%22%23ffffff%22%2C%22pointRadius%22%3A4%2C%22borderWidth%22%3A1.5%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22grid%22%3A%7B%22display%22%3Afalse%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23b3b3b3%22%7D%7D%2C%22y%22%3A%7B%22grid%22%3A%7B%22color%22%3A%22rgba%28255%2C255%2C255%2C0.18%29%22%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23b3b3b3%22%7D%2C%22suggestedMin%22%3A0%7D%7D%7D%7D">
-    <source media="(prefers-color-scheme: light)" srcset="https://quickchart.io/chart?width=640&height=300&devicePixelRatio=2&bkg=transparent&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222022%22%2C%222023%22%2C%222024%22%2C%222025%22%2C%222026%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Shipped%20projects%22%2C%22data%22%3A%5B1%2C3%2C5%2C7%2C9%5D%2C%22borderColor%22%3A%22%23000000%22%2C%22backgroundColor%22%3A%22rgba%280%2C0%2C0%2C0.06%29%22%2C%22fill%22%3Atrue%2C%22tension%22%3A0.35%2C%22pointBackgroundColor%22%3A%22%23000000%22%2C%22pointRadius%22%3A4%2C%22borderWidth%22%3A1.5%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22grid%22%3A%7B%22display%22%3Afalse%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23666666%22%7D%7D%2C%22y%22%3A%7B%22grid%22%3A%7B%22color%22%3A%22rgba%280%2C0%2C0%2C0.08%29%22%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23666666%22%7D%2C%22suggestedMin%22%3A0%7D%7D%7D%7D">
-    <img src="https://quickchart.io/chart?width=640&height=300&devicePixelRatio=2&bkg=transparent&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222022%22%2C%222023%22%2C%222024%22%2C%222025%22%2C%222026%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Shipped%20projects%22%2C%22data%22%3A%5B1%2C3%2C5%2C7%2C9%5D%2C%22borderColor%22%3A%22%23000000%22%2C%22backgroundColor%22%3A%22rgba%280%2C0%2C0%2C0.06%29%22%2C%22fill%22%3Atrue%2C%22tension%22%3A0.35%2C%22pointBackgroundColor%22%3A%22%23000000%22%2C%22pointRadius%22%3A4%2C%22borderWidth%22%3A1.5%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22grid%22%3A%7B%22display%22%3Afalse%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23666666%22%7D%7D%2C%22y%22%3A%7B%22grid%22%3A%7B%22color%22%3A%22rgba%280%2C0%2C0%2C0.08%29%22%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23666666%22%7D%2C%22suggestedMin%22%3A0%7D%7D%7D%7D" alt="Shipped projects over time" width="620" />
-  </picture>
-</div>
+## Contact
 
-## Projects
+Open to collaborating on useful products, integrations, and full-stack applications.
 
-| | |
-|---|---|
-| **[ByteWallet](https://github.com/gitOfKuKue/ByteWallet-v2)** | Fullstack finance wallet — Expo + NestJS + PostgreSQL |
-| **[Marina Travel](https://github.com/gitOfKuKue/marina-travel)** | Travel product UI in TypeScript |
-| **[Portfolio](https://kukue.vercel.app/)** | Personal site — Next.js on Vercel |
+- Portfolio: [kukue.site](https://kukue.site)
+- GitHub: [github.com/gitOfKuKue](https://github.com/gitOfKuKue)
+- Email: [thuhtetnaing.14.11@gmail.com](mailto:thuhtetnaing.14.11@gmail.com)
 
----
-
-<div align="center">
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=FFFFFF&center=true&vCenter=true&width=560&lines=Got+an+idea%3F+Let's+build+it.;Open+to+freelance+and+full-time+work.">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=000000&center=true&vCenter=true&width=560&lines=Got+an+idea%3F+Let's+build+it.;Open+to+freelance+and+full-time+work.">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=000000&center=true&vCenter=true&width=560&lines=Got+an+idea%3F+Let's+build+it.;Open+to+freelance+and+full-time+work." alt="CTA typing" />
-  </picture>
-
-<sub>thuhtetnaing.14.11@gmail.com · <a href="https://kukue.vercel.app/">kukue.vercel.app</a></sub>
-
-</div>
